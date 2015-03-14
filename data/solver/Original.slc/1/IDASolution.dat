@@ -1,0 +1,32 @@
+
+--------------------------------------------------
+
+    #####          
+    #   #          
+    #$  #          
+  ###  $##         
+  #  $ $ #         
+### # ## #   ######
+#   # ## #####  ..#
+# $  $          ..#
+##### ### #@##  ..#
+    #     #########
+    #######        
+
+--------------------------
+
+Solver : BotBestPushesS
+Message : Solution found
+Pack name : Original.slc
+Level ID : 1
+Actual Cost : 97
+Node Number : 11
+OpenTable : 10
+CloseTable : 21
+Path moves : 265
+Path pushes : 97
+Path : ullluuuLUluurDldlDlldddrRRRRRRRRRRdrUluRRdlllllllllllllulldRRRRRRRRRRRRRurDldRRullllllllllllluuurrDDuulldddrRRRRRRRRRRRRllllllllllluuuuruulDDDDDuulldddrRRRRRRRRRRdrUluRdllllllluuulLulDDDuulldddrRRRRRRRRRRurDldRullllllluuulluurDldldddrrruuuLLulDDDuulldddrRRRRRRRRRRR
+
+--------------------------------------------------
+solution found without quick search mode
+

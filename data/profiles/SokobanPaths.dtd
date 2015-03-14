@@ -1,0 +1,31 @@
+<!-- ================== SokobanSaves ====================================== -->
+<!ELEMENT SokobanPaths (Level+)>
+<!ATTLIST SokobanPaths NSuccess CDATA #REQUIRED>
+
+<!ELEMENT Level (MBM, MBP, WBM, WBP)>
+<!ATTLIST Level Id	CDATA #REQUIRED>
+
+ <!-- MyBestMoves -->
+<!ELEMENT MBM (#PCDATA)>
+			  <!-- Moves number and pushes number -->
+<!ATTLIST MBM mn  CDATA #REQUIRED
+			  pn CDATA #REQUIRED>
+
+ <!-- MyBestPushes -->
+<!ELEMENT MBP (#PCDATA)>
+<!ATTLIST MBP mn CDATA #REQUIRED
+			  pn  CDATA #REQUIRED>
+
+ <!-- WorldBestMoves -->
+<!ELEMENT WBM (#PCDATA)>
+<!ATTLIST WBM mn  CDATA #REQUIRED
+			  pn CDATA #REQUIRED>
+
+ <!-- WorldBestPushes -->
+<!ELEMENT WBP (#PCDATA)>
+<!ATTLIST WBP mn CDATA #REQUIRED
+		  	  pn  CDATA #REQUIRED>
+
+<!ATTLIST L xml:space (default|preserve) 'preserve'>
+
+<!-- ======================================================================= -->

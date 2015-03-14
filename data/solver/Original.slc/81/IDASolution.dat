@@ -1,0 +1,33 @@
+
+--------------------------------------------------
+
+              #####
+     ##########   #
+     #        #   #
+     #  $ $    $$ #
+     # ##### ## $ #
+     #$$   #$## $ #
+     # ### # ##$  #
+###### ### $ $    #
+#....        ##   #
+#....        ######
+#....        #     
+###########@##     
+          ###      
+
+--------------------------
+
+Solver : BotBestPushesS
+Message : Solution found
+Pack name : Original.slc
+Level ID : 81
+Actual Cost : 173
+Node Number : 22
+OpenTable : 21
+CloseTable : 69
+Path moves : 589
+Path pushes : 173
+Path : uuuruRRRdrruuuuLDuruulDLLLulllllldldDDDDDrdLLLLLuurrrruuuuuurrrdLLulDDDDDDrdLLLLLurrrruuuuuurrrrrdLLLLulDDDDDuuuuurrrrrrrdrrrrdddddllullldlllllLLLLLrrrruuuuuurrrrrrrdLLLLLLulDDDDDDDrdLLLLuurrrrrrruuullLrrrdddrrurrrdrruuuuullllllllllldDDDDrdLLLLurrrrrrrrruLdllllluuurrrrdDrdLLLLLLLLrrrrrrrurrrrrdrruLLLLLLdllllluuurrrrdDDDrdLLLLLLLuurrrrrrurrrrrrruulDrdLLLLLLdllllluuurrrrdDDrdLLLLLLLurruuuuurrrrrrrrrrDDDrdLLLLLLdllllluuurrrrdDrdLLLLLLLrrrrrrurrrrrruulDrdLLLLLdllllluuurrrrdDDDrdLLLLLLuuruuuuurrrrrrrrrDDDrdLLLLLdllllluuurrrrdDDrdLLLLLLuruuuuurrrrrrdDDuuurrrddddllLLdllllluuurrrrdDrdLLLLLL
+
+--------------------------------------------------
+Found with quick search mode
